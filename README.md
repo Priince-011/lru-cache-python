@@ -80,7 +80,7 @@ See `/benchmarks` or run `pytest --benchmark-only` (if enabled).
 - [ ] GitHub Actions CI
 
 ## Contributing
-PRs welcome! See [issues](https://github.com/Priince-011/in-memory-lru-cache/issues).
+PRs welcome! See [issues](https://github.com/Priince-011/lru-cache-python/issues).
 
 
 
