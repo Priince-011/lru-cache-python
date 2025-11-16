@@ -1,0 +1,26 @@
+[build]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+
+name = "in-memory-lru-cache"
+version = "0.1.0"
+description = "A highly efficient, in-memory LRU Cache for Python."
+authors = [
+    { name = "Prince Kumar Singh", email = "princekumarsingh011@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Priince-011/in-memory-lru-cache"
+Repository = "https://github.com/Priince-011/in-memory-lru-cache"
+Issues = "https://github.com/Priince-011/in-memory-lru-cache/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
