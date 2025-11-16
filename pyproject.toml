@@ -8,7 +8,7 @@ name = "in-memory-lru-cache"
 version = "0.1.0"
 description = "A highly efficient, in-memory LRU Cache for Python."
 authors = [
-    { name = "Prince Kumar Singh", email = "princekumarsingh011@gmail.com" }
+    { name = "Prince Kumar Singh", email = "princekumarsingh07@gmail.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.8"
@@ -18,9 +18,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Priince-011/in-memory-lru-cache"
-Repository = "https://github.com/Priince-011/in-memory-lru-cache"
-Issues = "https://github.com/Priince-011/in-memory-lru-cache/issues"
+Homepage = "https://github.com/Priince-011/lru-cache-python"
+Repository = "https://github.com/Priince-011/lru-cache-python"
+Issues = "https://github.com/Priince-011/lru-cache-python/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
